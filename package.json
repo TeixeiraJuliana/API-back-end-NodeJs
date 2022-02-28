@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "API-back-end-NodeJs",
   "version": "1.0.0",
   "description": "npm init npm install --save expreess body-parser morgan cors nodemon sequelize   npm install --save sequelize     npm install --save mysql2",
   "main": "app.js",
