@@ -11,7 +11,7 @@ app.use(express.json())
 app.use('/', routers)
 
 app.listen(3000, () => {
-  console.log('app online')
+  console.log('Seja bem vindo!')
 })
 
 
